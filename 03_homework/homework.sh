@@ -8,14 +8,16 @@
 
 # 1. How would you create 5 directories? Feel free to use any name for your directories.
 mkdir dir1 dir2 dir3 dir4 dir5
+
 # 2. How would you verify the creation of all 5 directories?
 ls #list all files and directories in current working directory
+
 # 3. In each directory, how would you create 5 .txt files and write "I love data" into each within the directories?
 
 # 4. How would you verify the presence of all 5 files?
 
 # 5. How would you append to one of the existing files " and machine learning!"?
-
+echo " and machine learning!" > dir1/textfile.txt
 # 6. How would you verify that the text was indeed appended to the existing file?
 
 # 7. How would you delete all files except for the one with the appended text?
