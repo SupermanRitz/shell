@@ -7,11 +7,11 @@
 # On your terminal, input all the commands you have used to create the following:
 
 # 1. How would you create 5 directories? Feel free to use any name for your directories.
-
+mkdir dir1 dir2 dir3 dir4 dir5
 # 2. How would you verify the creation of all 5 directories?
-
+ls
 # 3. In each directory, how would you create 5 .txt files and write "I love data" into each within the directories?
-
+touch /dir{1..5}/textfile.txt
 # 4. How would you verify the presence of all 5 files?
 
 # 5. How would you append to one of the existing files " and machine learning!"?
