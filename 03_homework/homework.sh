@@ -19,7 +19,7 @@ echo " and machine learning!" >> dir1/textfile.txt
 # 6. How would you verify that the text was indeed appended to the existing file?
 cat dir1/textfile.txt
 # 7. How would you delete all files except for the one with the appended text?
-
+rm dir{2..5}/textfile.txt
 # 8. How would you navigate back to the parent directory containing all the directories?
 
 # 9. How would you remove each directory along with its contents?
