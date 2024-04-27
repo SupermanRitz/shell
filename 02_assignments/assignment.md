@@ -36,7 +36,7 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 ```
 Your answer here...
 
-Elizabeth's 10 Paper Pings and the Stars
+
 
 
 ```
